@@ -17,11 +17,16 @@ h3 {
 .title-image {
   width: 50%;
   /* transform: rotate(25deg); */
-  position: absolute;
-  left: 40%;
+  /* position: absolute; */
+  /* left: 40%; */
+  margin: 0 30%;
 }
 
 .intro-text {
   width: 60%;
   /* margin: 40px auto 60px; */
+}
+
+.about {
+  padding-bottom: 7%;
 }
