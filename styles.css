@@ -1,16 +1,20 @@
 body {
   background-color: #efeae4;
   font-family: "David Libre", serif;
+  text-align: center;
 }
 
 nav {
   background-color: #bd8c7d;
 }
 
+h1 {
+  text-align: left;
+}
+
 h3 {
   font-family: "Cookie", cursive;
   color: grey;
-  text-align: center;
   padding: 2%;
 }
 
@@ -24,9 +28,13 @@ h3 {
 
 .intro-text {
   width: 60%;
-  /* margin: 40px auto 60px; */
+  text-align: left;
 }
 
 .about {
   padding-bottom: 7%;
+}
+
+#nutrition {
+  padding: 7% 15%;
 }
