@@ -53,3 +53,8 @@ h3 {
 .container-fluid {
   padding: 7% 15%;
 }
+
+.colored-section {
+  padding: 7% 15%;
+  background-color: #bd8c7d;
+}
