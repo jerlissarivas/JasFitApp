@@ -58,3 +58,7 @@ h3 {
   padding: 7% 15%;
   background-color: #bd8c7d;
 }
+
+.contact-button {
+  border: none;
+}
